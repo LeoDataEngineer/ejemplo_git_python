@@ -12,9 +12,8 @@ print(suma(2,3))
 
 print("La funcion multiplica  2 numeros enteros:")
 
-def suma(a,b):
+def resta (a,b):
     
-    return f"La sumu es: {a * b}"
+    return f"La sumu es: {a - b}"
 
 
-print(suma(2,3))
