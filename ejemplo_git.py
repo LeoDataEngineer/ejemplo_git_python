@@ -1,6 +1,6 @@
 
 
-print("La funcion suma 2 numeros enteros")
+print("La funcion suma 2 numeros enteros:")
 
 def suma(a,b):
     
