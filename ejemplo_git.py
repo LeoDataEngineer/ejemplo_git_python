@@ -18,7 +18,7 @@ def resta (a,b):
 
 
 
-print("La funcion divide 2 numeros enteros:")
+print("La funcion divide 2 numeros enteros:") 
 
 def divide(a,b):
     
